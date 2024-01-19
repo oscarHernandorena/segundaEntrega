@@ -1,0 +1,13 @@
+.botonComprar {
+    background-color: $color-fondo;
+    color: $color-botones;
+  
+    &:hover {
+      background-color: $color-hover
+    }
+  }
+  
+  .botonVajilla {
+    border-color: $color-botones;
+  }
+  

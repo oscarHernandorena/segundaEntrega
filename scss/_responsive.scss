@@ -1,0 +1,22 @@
+@media (max-width:1023px) {
+
+    .tituloResponsive {
+        text-align: center;
+        flex-direction: column;
+        height: auto;
+    }
+} 
+
+@media (max-width:1023x) {
+    
+    .vajillaResponsive {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 1023px) {
+    .mapaResponsive iframe {
+      width: 100%;
+      height: 300px; 
+    }
+  }
